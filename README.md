@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-I love solving real world problems 🔭 Among other things:) 
+I love solving real world problems 🔭 Among other things:)
 
-<!--
-**SachinKalsi/sachinkalsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 NLP / ML
+- **[LLM-NER-Offset-Generator](https://github.com/SachinKalsi/LLM-NER-Offset-Generator)** — Helps create quality training datasets for NER tasks using LLMs
+- **[kmedoids](https://github.com/SachinKalsi/kmedoids)** — Python implementation of the K-Medoids clustering algorithm
+
+### ⚡ Vibe Apps
+- **[nammane](https://github.com/SachinKalsi/nammane)** — A vibe app built with modern web tech
+- **[web-mark](https://github.com/SachinKalsi/web-mark)** — A vibe app for web bookmarking/marking
+
+### 🔧 Tools & Utilities
+- **[track-email](https://github.com/SachinKalsi/track-email)** — Email tracking utility
